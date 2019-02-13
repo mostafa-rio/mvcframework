@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block title %} All Posts {% endblock %}
+{% block body %}
+    <h1>All Posts Page</h1>
+    <p>all posts goes here</p>
+    {% for post in posts %}
+        <h3>{{ post['title'] }}</h3>
+        <p>{{ post['content'] }}</p>
+        <hr>
+        <br><br>
+        
+    {% endfor %}
+{% endblock %}

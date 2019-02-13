@@ -1,0 +1,121 @@
+[12-Feb-2019 21:46:40 Europe/Berlin] Uncaught exception: Exception\ Message: Method productsActionAction not found in controllerApp\Controllers\Posts\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\Core\Router.php(55): Core\Controller->__call('productsAction', Array)
+#1 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('posts/products')
+#2 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Controller.php on line 30\ 
+[12-Feb-2019 21:46:40 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('favicon.ico')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 21:47:09 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('posts/')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 21:47:09 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('favicon.ico')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 21:47:15 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('favicon.ico')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 21:47:20 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('favicon.ico')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 21:47:21 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('favicon.ico')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 21:47:22 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('favicon.ico')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 21:47:26 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('favicon.ico')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 21:47:36 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('favicon.ico')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 21:57:32 Europe/Berlin] Uncaught exception: Exception\ Message: Method indexdsdActionAction not found in controllerApp\Controllers\Posts\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\Core\Router.php(55): Core\Controller->__call('indexdsdAction', Array)
+#1 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('posts/indexdsd')
+#2 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Controller.php on line 30\ 
+[12-Feb-2019 21:57:32 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('favicon.ico')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 21:59:01 Europe/Berlin] Uncaught exception: Exception\ Message: Method indexdsActionAction not found in controllerApp\Controllers\Posts\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\Core\Router.php(55): Core\Controller->__call('indexdsAction', Array)
+#1 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('posts/indexds')
+#2 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Controller.php on line 30\ 
+[12-Feb-2019 21:59:28 Europe/Berlin] Uncaught exception: Exception\ Message: Method inddsexActionAction not found in controllerApp\Controllers\Posts\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\Core\Router.php(55): Core\Controller->__call('inddsexAction', Array)
+#1 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('posts/inddsex')
+#2 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Controller.php on line 30\ 
+[12-Feb-2019 22:00:10 Europe/Berlin] Uncaught exception: Exception\ Message: Method indexdsdActionAction not found in controllerApp\Controllers\Posts\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\Core\Router.php(55): Core\Controller->__call('indexdsdAction', Array)
+#1 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('posts/indexdsd')
+#2 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Controller.php on line 30\ 
+[12-Feb-2019 22:02:10 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('dsadsa')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 22:02:18 Europe/Berlin] Uncaught exception: Exception\ Message: Method indexdsActionAction not found in controllerApp\Controllers\Posts\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\Core\Router.php(55): Core\Controller->__call('indexdsAction', Array)
+#1 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('posts/indexds')
+#2 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Controller.php on line 30\ 
+[12-Feb-2019 22:11:53 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 22:14:44 Europe/Berlin] Uncaught exception: Exception\ Message: Method indexdsActionAction not found in controllerApp\Controllers\Home\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\Core\Router.php(55): Core\Controller->__call('indexdsAction', Array)
+#1 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('home/indexds')
+#2 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Controller.php on line 30\ 
+[12-Feb-2019 22:14:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'App\View' not found in C:\xampp\htdocs\php_course\Core\Error.php:48
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#1 {main}
+  thrown in C:\xampp\htdocs\php_course\Core\Error.php on line 48
+[12-Feb-2019 22:14:57 Europe/Berlin] Uncaught exception: Exception\ Message: Method indexdsActionAction not found in controllerApp\Controllers\Home\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\Core\Router.php(55): Core\Controller->__call('indexdsAction', Array)
+#1 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('home/indexds')
+#2 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Controller.php on line 30\ 
+[12-Feb-2019 22:15:10 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('dsafa')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 22:16:14 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('dsafa')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 22:16:27 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('dsafa')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 22:17:01 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('dsafa')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 22:17:08 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('homeindex')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 22:17:16 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('homeindex')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 
+[12-Feb-2019 22:17:29 Europe/Berlin] Uncaught exception: Exception\ Message: No route matched\ 
+Stack trace: #0 C:\xampp\htdocs\php_course\public\index.php(28): Core\Router->dispatch('homeindex')
+#1 {main}\ 
+Throw in C:\xampp\htdocs\php_course\Core\Router.php on line 68\ 

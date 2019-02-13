@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block body %}
+    <h1>welcome</h1>
+    <p>view is rendering using the Twig template engin</p>
+    <h5>{{ role }}</h5>
+    <ul>
+        {% for color in colors %}
+            <li>{{ color }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
